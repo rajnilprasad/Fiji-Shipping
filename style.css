@@ -11,7 +11,7 @@ body {
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color:#d4d406;
+    background-color: goldenrod;
     color: #ffffff;
 }
 
@@ -80,7 +80,7 @@ p {
 
 .search-engine-optimization {
     margin-bottom: 20px;
-    padding: 20px;
+    padding: 10px;
     height: 120px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: gold;
@@ -91,7 +91,7 @@ p {
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 20px;
-    height: 200px;
+    height: 350px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #1fb3ee;
     color: #ffffff;
@@ -100,10 +100,10 @@ p {
 
 .social-media-marketing {
     margin-bottom: 20px;
-    padding: 20px;
+    padding: 10px;
     height: 100px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: gold;
+    background-color: green;
     color: #ffffff;
     font-style: italic;
 }
@@ -111,25 +111,37 @@ p {
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 40px;
+    text-align: center;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 40px;
+    text-align: center;
+}
+
+.table>tbody>tr>td, 
+.table>tbody>tr>th, 
+.table>tfoot>tr>td, 
+.table>tfoot>tr>th, 
+.table>thead>tr>td, 
+.table>thead>tr>th {
+
+    text-align: center;
+
 }
 
 .social-media-marketing h2 {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     font-size: 40px;
-    text-align: center;
 }
 
 
 .footer {
-    padding: 30px;
+    padding: 5px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color:red;
+    background-color: red;
     text-align: center;
     font-size: 30px;
     font-style: italic;
