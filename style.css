@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-    padding: 20px;
+    padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: goldenrod;
     color: #ffffff;
@@ -55,7 +55,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("https://cdn.wallpapersafari.com/14/81/8bl2SE.jpg");
+    background-image: url("https://i.ytimg.com/vi/09wGTaGhrNE/maxresdefault.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -141,7 +141,7 @@ p {
     padding: 5px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: red;
+    background-color:lightcyan;
     text-align: center;
     font-size: 30px;
     font-style: italic;
